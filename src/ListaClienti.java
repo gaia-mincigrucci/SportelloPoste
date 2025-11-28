@@ -2,7 +2,7 @@ import java.util.ArrayList;
 /**
  * Classe che rappresenta la risorsa condivisa fra i due thread
  * da gestire con metodi "synchronized"
- * e con l'uso di wait() e notify()
+ *  e con l'uso di wait() e notify()
  * @author frida
  * @version 1.0
  */
